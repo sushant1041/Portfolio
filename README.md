@@ -12,4 +12,4 @@ Welcome to the repository for my personal portfolio website! This website serves
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/your-portfolio.git
+   git clone https://github.com/sushant1041/Portfolio.git
