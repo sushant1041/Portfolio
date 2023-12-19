@@ -8,3 +8,8 @@ Welcome to the repository for my personal portfolio website! This website serves
 - **Projects Showcase:** Check out the projects I've worked on. Each project comes with a brief description, key technologies used, and a link to the live demo or GitHub repository.
 - **Skills and Technologies:** Get an overview of the skills and technologies I specialize in, helping you understand my expertise and focus areas.
 - **Contact Information:** Reach out to me easily through the provided contact information. I'm always open to collaboration and new opportunities.
+## How to Use
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/your-username/your-portfolio.git
